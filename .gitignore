@@ -4,6 +4,10 @@ target/
 !**/src/main/**
 !**/src/test/**
 
+### React.js front-end ###
+/app/node_modules
+
+
 ### STS ###
 .apt_generated
 .classpath
